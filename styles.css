@@ -1,0 +1,33 @@
+body{
+  header{
+    h1{
+        color: white;
+        background-color: bisque;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 45px;
+        line-height: 140px ;
+        text-align: center;
+    }
+  }
+  h2{
+    color: rgb(248, 205, 152);
+    background-color: rgb(248, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: 60px;
+    text-align: center;
+  }
+  h6{
+    color: rgb(248, 205, 152);
+    background-color: rgb(248, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    
+  }
+  p{
+     color: noir;
+  }
+  
+}
